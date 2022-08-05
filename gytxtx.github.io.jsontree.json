@@ -1,0 +1,160 @@
+var site_tree_node = {
+  "url": "https://gytxtx.github.io/",
+  "incount": "1",
+  "outcount": "6",
+  "title": "gytxt...",
+  "childs": [
+  {
+    "url": "https://gytxtx.github.io/HomePage",
+    "incount": "8",
+    "outcount": "7",
+    "title": "KFACB...",
+    "childs": [
+    {
+      "url": "https://gytxtx.github.io/HomePage/",
+      "incount": "7",
+      "outcount": "7",
+      "title": "KFACB...",
+      "childs": [
+            ]
+    }
+    ,{
+      "url": "https://gytxtx.github.io/yamiAchievement/",
+      "incount": "7",
+      "outcount": "4",
+      "title": "KFACB...",
+      "childs": [
+            ]
+    }
+    ,{
+      "url": "https://gytxtx.github.io/Video/",
+      "incount": "7",
+      "outcount": "4",
+      "title": "KFACB...",
+      "childs": [
+            ]
+    }
+    ,{
+      "url": "https://gytxtx.github.io/helpme/",
+      "incount": "7",
+      "outcount": "4",
+      "title": "KFACB...",
+      "childs": [
+            ]
+    }
+    ,{
+      "url": "https://gytxtx.github.io/AboutHelp/",
+      "incount": "2",
+      "outcount": "4",
+      "title": "KFACB...",
+      "childs": [
+            ]
+    }
+    ,{
+      "url": "https://gytxtx.github.io/404.html",
+      "incount": "1",
+      "outcount": "0",
+      "title": "null",
+      "childs": [
+            ]
+    }
+    ]
+  }
+  ,{
+    "url": "https://gytxtx.github.io/Blog",
+    "incount": "5",
+    "outcount": "18",
+    "title": "KFACB...",
+    "childs": [
+    {
+      "url": "https://gytxtx.github.io/imgs",
+      "incount": "3",
+      "outcount": "14",
+      "title": "KFACB...",
+      "childs": [
+            ]
+    }
+    ,{
+      "url": "https://gytxtx.github.io/About",
+      "incount": "3",
+      "outcount": "0",
+      "title": "null",
+      "childs": [
+            ]
+    }
+    ,{
+      "url": "https://gytxtx.github.io/MiFanDian",
+      "incount": "27",
+      "outcount": "4",
+      "title": "KFACB...",
+      "childs": [
+            ]
+    }
+    ,{
+      "url": "https://gytxtx.github.io/Blog-Archive/Pages/2022-6/index.html",
+      "incount": "2",
+      "outcount": "0",
+      "title": "null",
+      "childs": [
+            ]
+    }
+    ,{
+      "url": "https://gytxtx.github.io/Blog-Archive/Pages/2022-5/index.html",
+      "incount": "3",
+      "outcount": "15",
+      "title": "KFACB...",
+      "childs": [
+            ]
+    }
+    ]
+  }
+  ,{
+    "url": "https://gytxtx.github.io/eatyami",
+    "incount": "1",
+    "outcount": "0",
+    "title": "吃掉小雅米",
+    "childs": [
+        ]
+  }
+  ,{
+    "url": "https://gytxtx.github.io/zzgj",
+    "incount": "3",
+    "outcount": "4",
+    "title": "谷歌账号怎...",
+    "childs": [
+    {
+      "url": "https://gytxtx.github.io/tougao.html",
+      "incount": "1",
+      "outcount": "0",
+      "title": "null",
+      "childs": [
+            ]
+    }
+    ,{
+      "url": "https://gytxtx.github.io/HomePage/404.html",
+      "incount": "2",
+      "outcount": "0",
+      "title": "404 -...",
+      "childs": [
+            ]
+    }
+    ,{
+      "url": "https://gytxtx.github.io/7014.html",
+      "incount": "1",
+      "outcount": "0",
+      "title": "null",
+      "childs": [
+            ]
+    }
+    ,{
+      "url": "https://gytxtx.github.io/guanggao.html",
+      "incount": "1",
+      "outcount": "0",
+      "title": "null",
+      "childs": [
+            ]
+    }
+    ]
+  }
+  ]
+}
